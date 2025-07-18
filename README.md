@@ -50,6 +50,6 @@ El proyecto fue realizado con fines de aprendizaje y portafolio, y está pensado
 
 ## 👤 Autor
 
-- [Tu Nombre](https://github.com/tuusuario)
+- [Breyner Stiven Guarin Arias](https://github.com/BreynerSti)
 
 ---
