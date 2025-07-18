@@ -15,48 +15,48 @@ TechStore es una aplicación web de e-commerce donde los usuarios pueden explora
 
 ## 🛠️ Características principales
 
--   Registro y login de usuarios
--   Panel de administración para productos, categorías y órdenes
--   Carrito de compras y proceso de checkout
--   Panel de usuario con historial de pedidos
--   Gestión de imágenes de productos
--   Filtros y búsqueda de productos
+- Registro y login de usuarios
+- Panel de administración para productos, categorías y órdenes
+- Carrito de compras y proceso de checkout
+- Panel de usuario con historial de pedidos
+- Gestión de imágenes de productos
+- Filtros y búsqueda de productos
 
 ## 🧰 Tecnologías usadas
 
--   Laravel 10
--   PHP 8
--   MySQL
--   Tailwind CSS
+- Laravel 10
+- PHP 8
+- MySQL
+- Tailwind CSS
 
 ## ⚙️ Instalación
 
 1. Clona el repositorio:
-    ```sh
-    git clone https://github.com/tuusuario/techstore.git
-    cd techstore
-    ```
+   ```sh
+   git clone https://github.com/tuusuario/techstore.git
+   cd techstore
+   ```
 2. Instala dependencias:
-    ```sh
-    composer install
-    ```
+   ```sh
+   composer install
+   ```
 3. Copia el archivo de entorno:
-    ```sh
-    cp .env.example .env
-    ```
+   ```sh
+   cp .env.example .env
+   ```
 4. Configura tus variables de entorno en `.env`
 5. Genera la clave de la app:
-    ```sh
-    php artisan key:generate
-    ```
+   ```sh
+   php artisan key:generate
+   ```
 6. Ejecuta migraciones y seeders:
-    ```sh
-    php artisan migrate --seed
-    ```
+   ```sh
+   php artisan migrate --seed
+   ```
 7. Inicia el servidor:
-    ```sh
-    php artisan serve
-    ```
+   ```sh
+   php artisan serve
+   ```
 
 ## 📸 Capturas de pantalla
 
@@ -64,12 +64,11 @@ TechStore es una aplicación web de e-commerce donde los usuarios pueden explora
 
 ## 👤 Autor
 
--   [Tu Nombre](https://github.com/tuusuario)
+- [Tu Nombre](https://github.com/tuusuario)
 
 ---
 
 ¡No olvides personalizarlo con tu nombre, usuario y detalles específicos de tu proyecto!
 
 ---
-
 
