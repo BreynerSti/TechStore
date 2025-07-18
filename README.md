@@ -9,64 +9,47 @@
 
 ## 🚀 Descripción
 
-TechStore es una aplicación web de e-commerce donde los usuarios pueden explorar productos, agregarlos al carrito, realizar compras y los administradores pueden gestionar el catálogo, categorías y órdenes.
+**TechStore** es una aplicación web de e-commerce desarrollada como proyecto personal para demostrar habilidades en desarrollo full stack con Laravel.  
+El sistema permite a los usuarios explorar un catálogo de productos, agregarlos al carrito y realizar compras, mientras que los administradores pueden gestionar productos, categorías y órdenes desde un panel dedicado.
+
+El proyecto fue realizado con fines de aprendizaje y portafolio, y está pensado para ser presentado en entrevistas o procesos de selección, mostrando tanto la lógica de negocio como la interfaz de usuario y la gestión administrativa.
+
+---
 
 ## 🛠️ Características principales
 
-- Registro y login de usuarios
-- Panel de administración para productos, categorías y órdenes
+- Registro y autenticación de usuarios
+- Navegación y búsqueda de productos por categorías
 - Carrito de compras y proceso de checkout
 - Panel de usuario con historial de pedidos
-- Gestión de imágenes de productos
-- Filtros y búsqueda de productos
+- Panel de administración para:
+  - Gestión de productos (crear, editar, eliminar, imágenes)
+  - Gestión de categorías
+  - Gestión de órdenes y visualización de pedidos
+- Estadísticas rápidas para administradores
+- Interfaz moderna y responsiva con Tailwind CSS
+
+---
 
 ## 🧰 Tecnologías usadas
 
-- Laravel 10
-- PHP 8
-- MySQL
-- Tailwind CSS
+- **Laravel 10** (framework backend)
+- **PHP 8**
+- **MySQL** (base de datos, gestionada con XAMPP)
+- **Tailwind CSS** (estilos)
+- **Visual Studio Code** (editor de desarrollo)
+- **XAMPP** (servidor local y gestor de base de datos)
 
-## ⚙️ Instalación
-
-1. Clona el repositorio:
-   ```sh
-   git clone https://github.com/tuusuario/techstore.git
-   cd techstore
-   ```
-2. Instala dependencias:
-   ```sh
-   composer install
-   ```
-3. Copia el archivo de entorno:
-   ```sh
-   cp .env.example .env
-   ```
-4. Configura tus variables de entorno en `.env`
-5. Genera la clave de la app:
-   ```sh
-   php artisan key:generate
-   ```
-6. Ejecuta migraciones y seeders:
-   ```sh
-   php artisan migrate --seed
-   ```
-7. Inicia el servidor:
-   ```sh
-   php artisan serve
-   ```
+---
 
 ## 📸 Capturas de pantalla
 
-<!-- Puedes agregar imágenes aquí si quieres -->
+<!-- Aquí puedes agregar imágenes del dashboard, panel de productos, carrito, etc. -->
+
+---
 
 ## 👤 Autor
 
 - [Tu Nombre](https://github.com/tuusuario)
 
 ---
-
-¡Eso es todo!  
-Solo asegúrate de que el archivo `Designer.jpeg` esté en la raíz del proyecto (junto al README.md) y así se mostrará correctamente en GitHub.
-
-¿Quieres que te ayude a personalizar alguna otra sección o agregar capturas de pantalla?
