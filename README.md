@@ -1,7 +1,5 @@
 <p align="center">
-  <a href="https://laravel.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="300" alt="Laravel Logo">
-  </a>
+  <img src="Designer.jpeg" width="300" alt="TechStore Logo">
 </p>
 
 <h1 align="center">TechStore</h1>
@@ -68,7 +66,7 @@ TechStore es una aplicación web de e-commerce donde los usuarios pueden explora
 
 ---
 
-¡No olvides personalizarlo con tu nombre, usuario y detalles específicos de tu proyecto!
+¡Eso es todo!  
+Solo asegúrate de que el archivo `Designer.jpeg` esté en la raíz del proyecto (junto al README.md) y así se mostrará correctamente en GitHub.
 
----
-
+¿Quieres que te ayude a personalizar alguna otra sección o agregar capturas de pantalla?
