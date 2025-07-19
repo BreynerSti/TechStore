@@ -46,29 +46,28 @@ El proyecto fue realizado con fines de aprendizaje y portafolio, y está pensado
 
 <p align="center">
 <img src="screenshots/imagen1.png" width="600" alt="Página principal">
-<br>
-<sub>Página principal: vista de inicio con navegación y Categorias disponibles .</sub>
-<br><br>
-<img src="screenshots/imagen2.png" width="600" alt="Listado de productos">
-<br>
-<sub>Listado de productos: catálogo con filtros y categorías.</sub>
-<br><br>
-<img src="screenshots/imagen3.png" width="600" alt="Detalle de producto">
-<br>
-<sub>Detalle de producto: información, imágenes y opción de agregar al carrito.</sub>
-<br><br>
-<img src="screenshots/imagen4.png" width="600" alt="Carrito de compras">
-<br>
-<sub>Carrito de compras: productos seleccionados, cantidades y total.</sub>
-<br><br>
-<img src="screenshots/imagen5.png" width="600" alt="Checkout">
-<br>
-<sub>Checkout: formulario de compra y Solicitud del pedido (PayPal).</sub>
-<br><br>
-<img src="screenshots/imagen6.png" width="600" alt="Panel de administración">
-<br>
-<sub>Panel de administración: gestión de productos, categorías y pedidos.</sub>
 </p>
+<p align="center"><b>Página principal:</b> vista de inicio con navegación y productos destacados.</p>
+<p align="center">
+<img src="screenshots/imagen2.png" width="600" alt="Listado de productos">
+</p>
+<p align="center"><b>Listado de productos:</b> catálogo con filtros y categorías.</p>
+<p align="center">
+<img src="screenshots/imagen3.png" width="600" alt="Detalle de producto">
+</p>
+<p align="center"><b>Detalle de producto:</b> información, imágenes y opción de agregar al carrito.</p>
+<p align="center">
+<img src="screenshots/imagen4.png" width="600" alt="Carrito de compras">
+</p>
+<p align="center"><b>Carrito de compras:</b> productos seleccionados, cantidades y total.</p>
+<p align="center">
+<img src="screenshots/imagen5.png" width="600" alt="Checkout">
+</p>
+<p align="center"><b>Checkout:</b> formulario de compra y método de pago (PayPal).</p>
+<p align="center">
+<img src="screenshots/imagen6.png" width="600" alt="Panel de administración">
+</p>
+<p align="center"><b>Panel de administración:</b> gestión de productos, categorías y pedidos.</p>
 
 ---
 
