@@ -47,7 +47,7 @@ El proyecto fue realizado con fines de aprendizaje y portafolio, y está pensado
 <p align="center">
 <img src="screenshots/imagen1.png" width="600" alt="Página principal">
 </p>
-<p align="center"><b>Página principal:</b> vista de inicio con navegación y productos destacados.</p>
+<p align="center"><b>Página principal:</b> vista de inicio con navegación y Categorias destacados y disponibles.</p>
 <p align="center">
 <img src="screenshots/imagen2.png" width="600" alt="Listado de productos">
 </p>
@@ -63,7 +63,7 @@ El proyecto fue realizado con fines de aprendizaje y portafolio, y está pensado
 <p align="center">
 <img src="screenshots/imagen5.png" width="600" alt="Checkout">
 </p>
-<p align="center"><b>Checkout:</b> formulario de compra y método de pago (PayPal).</p>
+<p align="center"><b>Checkout:</b> formulario de compra y solicitud del pedido.</p>
 <p align="center">
 <img src="screenshots/imagen6.png" width="600" alt="Panel de administración">
 </p>
